@@ -26,12 +26,15 @@ a:hover { color:#B2B3B4; }
 #button_36e1e858 { box-sizing: border-box; vertical-align: bottom; border-radius: 9px; position:relative; display: inline-block; width:200px; height:100px; background-color:#FF0080; background: linear-gradient(to bottom, #00FFFF, #FF0080); border: 2px solid #130F24;  }
 #button_36e1e858:hover { background-color:#A9A9BC; background: linear-gradient(to bottom, #A9A9AA, #A9A9BC); border-color:#000000;  }
 #button_36e1e858:hover span { color:#FFFFFF; }
+#button_10e32479 { box-sizing: border-box; vertical-align: bottom; border-radius: 9px; position:relative; display: inline-block; width:200px; height:100px; background-color:#008080; background: linear-gradient(to bottom, #00FF00, #008080); border: 2px solid #130F24;  }
+#button_10e32479:hover { background-color:#A9A9BC; background: linear-gradient(to bottom, #A9A9AA, #A9A9BC); border-color:#000000;  }
+#button_10e32479:hover span { color:#FFFFFF; }
 body { background-color:#FFFFFF; padding:0;  margin: 0; }
 .textstyle1 { text-align:left; }
 #container_e4bf9ac { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background-color:#FF00FF; background: linear-gradient(to bottom, #8000FF, #FF00FF);  }
 #container_e4bf9ac_padding { margin: 10px; display: block;  }
 .textstyle2 { text-align:center; }
-.textstyle3 { font-size:36pt; font-family:'Lucida Console', Monaco, monospace; color:#000000;  }
+.textstyle3 { font-size:88pt; font-family:'Lucida Console', Monaco, monospace; color:#000000;  }
 #container_5be02bc9 { vertical-align: top; position:relative; display: inline-block; width:101%; min-height:904px; background-color:#8000FF; background: linear-gradient(to bottom, #FF00FF, #8000FF);  }
 #container_5be02bc9_padding { margin: 10px; display: block;  }
 .vcenterstyle1 { display: table; width: 100%; height: 100%; }
