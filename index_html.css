@@ -26,7 +26,7 @@ a:hover { color:#B2B3B4; }
 #button_36e1e858 { box-sizing: border-box; vertical-align: bottom; border-radius: 9px; position:relative; display: inline-block; width:200px; height:100px; background-color:#FF0080; background: linear-gradient(to bottom, #00FFFF, #FF0080); border: 2px solid #130F24;  }
 #button_36e1e858:hover { background-color:#A9A9BC; background: linear-gradient(to bottom, #A9A9AA, #A9A9BC); border-color:#000000;  }
 #button_36e1e858:hover span { color:#FFFFFF; }
-#button_10e32479 { box-sizing: border-box; vertical-align: bottom; border-radius: 9px; position:relative; display: inline-block; width:200px; height:100px; background-color:#008080; background: linear-gradient(to bottom, #00FF00, #008080); border: 2px solid #130F24;  }
+#button_10e32479 { box-sizing: border-box; vertical-align: bottom; border-radius: 9px; position:relative; display: inline-block; width:200px; height:100px; background-color:#008080; background: linear-gradient(to bottom, #FF8000, #008080); border: 2px solid #130F24;  }
 #button_10e32479:hover { background-color:#A9A9BC; background: linear-gradient(to bottom, #A9A9AA, #A9A9BC); border-color:#000000;  }
 #button_10e32479:hover span { color:#FFFFFF; }
 body { background-color:#FFFFFF; padding:0;  margin: 0; }
